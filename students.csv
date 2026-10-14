@@ -1,0 +1,26 @@
+StudentID,Name,Department,Math,Science,English,Computer,Physics,Attendance
+S001,Aarav Sharma,Computer Science,88,76,82,95,79,92
+S002,Priya Patel,Electronics,72,85,68,74,88,87
+S003,Rahul Verma,Mechanical,55,60,70,50,62,75
+S004,Sneha Gupta,Computer Science,91,89,85,98,87,96
+S005,Amit Kumar,Civil,45,52,60,40,48,68
+S006,Divya Singh,Electronics,78,82,74,80,85,90
+S007,Rohan Mehta,Computer Science,63,58,72,77,55,83
+S008,Anjali Nair,Mechanical,50,45,65,42,49,70
+S009,Vikram Rao,Civil,82,78,80,75,76,88
+S010,Pooja Joshi,Computer Science,95,92,90,99,93,98
+S011,Karan Malhotra,Electronics,67,71,63,69,73,82
+S012,Neha Saxena,Mechanical,58,62,69,55,60,77
+S013,Suresh Iyer,Civil,74,70,76,68,72,85
+S014,Ritu Bhatt,Computer Science,80,83,79,87,81,91
+S015,Manish Tiwari,Electronics,42,48,55,44,46,65
+S016,Kavya Reddy,Computer Science,86,84,88,92,85,94
+S017,Arjun Nambiar,Mechanical,61,66,58,60,64,79
+S018,Sonal Desai,Civil,70,73,75,65,71,86
+S019,Deepak Pandey,Electronics,77,80,72,78,82,89
+S020,Ishaan Kapoor,Computer Science,93,90,87,96,91,97
+S021,Tanvi Bose,Mechanical,48,53,62,46,50,72
+S022,Nikhil Choudhary,Civil,65,68,70,60,66,81
+S023,Simran Kaur,Electronics,83,79,77,81,80,93
+S024,Yash Agarwal,Computer Science,57,60,65,62,58,76
+S025,Meera Pillai,Mechanical,76,74,80,70,75,88
